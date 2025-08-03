@@ -1,7 +1,7 @@
 
 # LerPad
 
-This is my submission for Hack Club's Hackpad YSWS! It is very clunky, so I am sorry if it doesn't turn out great. This is my first time designing a PCB, or using CAD, or QMK. I plan to make a version 2 in the future, and maybe even more versions!
+This is my submission for Hack Club's Hackpad YSWS! This is my first time designing a PCB, or using CAD, or QMK. I plan to make a version 2 in the future, and maybe even more versions!
 
 This MacroPad is currently configured as a launch controller for Kerbal Space Program! If it works, you will be able to control movement, stages, SAS, and thrust using this macropad! The idea came from my friend, and I saw this as a perfect opportunity to make a prototype.
 
