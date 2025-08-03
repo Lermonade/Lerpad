@@ -20,5 +20,5 @@ This MacroPad is currently configured as a launch controller for Kerbal Space Pr
 
 ## Author
 
-- [@SilasLovett](https://github.com/SilasLovett) - That's me
+- [@Lermonade] (https://github.com/Lermonade) - Silas Lovett
 
